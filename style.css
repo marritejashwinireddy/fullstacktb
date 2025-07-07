@@ -1,0 +1,64 @@
+h2{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+ p.one {
+      border-style: none;
+    }
+
+    p.two {
+      border-style: hidden;
+    }
+
+    p.three {
+      border-style: dotted;
+    }
+
+    p.four {
+      border-style: dashed;
+    }
+
+    p.five {
+      border-style: solid;
+    }
+
+    p.six {
+      border-style: double;
+    }
+
+    p.seven {
+      border-style: groove;
+    }
+
+    p.eight {
+      border-style: ridge;
+    }
+
+    p.nine {
+      border-style: inset;
+    }
+
+    p.ten {
+      border-style: outset;
+    }
+    p.three{
+        border-style:dashed;
+    }
+
+    
+ * {
+            background-color:palevioletred;
+            font-size: 50px;
+        }
+        #heading {
+            font-size: 50px;
+            color:blue;
+        }
+        .four{
+            font-size: 5rem; 
+        }
+        p.five,p.six{
+            font-size: 50px;
+            color:yellowgreen
+        }
